@@ -1,3 +1,3 @@
 <?php
 
-echo 'hello-gg';
+echo php_info();
